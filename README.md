@@ -2,6 +2,8 @@
 
 Consiste en una aplicación en la cual vos escribis la tarea que tenes que realizar. Una vez escrita la tarea y presionamos <strong>Enter</strong>, la/s tareas se mostrarán en un listado en el que visualizaremos,además de nuestras tareas, 2 botones, uno para actualizar la tarea, (es decir, que cuando hagamos click en este se pondrá con un check de realizada) y otro para eliminar. Cada vez que actualizamos o eliminamos una tarea, saldrá una notificación avisándonos que esta se a realizado con éxito.
 
+### Imágenes ilustrativas
+
 ## Tecnologías usadas
 
 - [![Angular][angular.io]][angular-url]
